@@ -2,5 +2,4 @@ this is the first statement.
 this is new information.
 this is git pull origin main information.
 finals finals.
-chivda chivda
-please run.
+this is not working.
